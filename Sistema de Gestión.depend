@@ -1,0 +1,4237 @@
+# depslib dependency file v1.0
+1622330928 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\funciones.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"funciones.h"
+
+1624573971 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1623951564 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1624571714 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\articulo.h
+	"Articulo.h"
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1624571714 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\persona.h
+
+1621980709 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\vendedor.cpp
+	<iostream>
+	<cstring>
+	"Vendedor.h"
+
+1621979540 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\vendedor.h
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1624571714 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1624559206 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1624573971 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\venta.h
+	"Fecha.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1624571714 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\usuario.h
+	"Persona.h"
+
+1621294357 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621294367 c:\users\pablo ezequiel caero\desktop\sistema de gestión\fecha.h
+
+1624395894 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1623952821 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\fecha.h
+
+1622667488 c:\users\pablo ezequiel caero\desktop\sistema de gestión\funciones.h
+	<iostream>
+
+1621997281 source:c:\users\pcaero\desktop\sistema de gestión\main.cpp
+	<iostream>
+	"funciones.h"
+
+1622000009 c:\users\pcaero\desktop\sistema de gestión\funciones.h
+
+1621994473 source:c:\users\pcaero\desktop\sistema de gestión\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pcaero\desktop\sistema de gestión\include\fecha.h
+
+1621981001 source:c:\users\pcaero\desktop\sistema de gestión\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1621989335 c:\users\pcaero\desktop\sistema de gestión\include\persona.h
+
+1621994118 source:c:\users\pcaero\desktop\sistema de gestión\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1621994140 c:\users\pcaero\desktop\sistema de gestión\include\proveedor.h
+	"Persona.h"
+
+1621994118 source:c:\users\pcaero\desktop\sistema de gestión\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1621994118 c:\users\pcaero\desktop\sistema de gestión\include\usuario.h
+	"Persona.h"
+
+1621994282 source:c:\users\pcaero\desktop\sistema de gestión\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1621994308 c:\users\pcaero\desktop\sistema de gestión\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622062792 c:\users\pcaero\desktop\sistema de gestión\include\articulo.h
+	"Proveedor.h"
+
+1622062871 source:c:\users\pcaero\desktop\sistema de gestión\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+
+1622063036 source:c:\users\pcaero\desktop\sistema de gestión\funciones.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"funciones.h"
+
+1622336454 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\funciones.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"funciones.h"
+
+1622062792 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\include\articulo.h
+	"Proveedor.h"
+
+1622336399 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\include\proveedor.h
+	"Persona.h"
+
+1622334557 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\include\persona.h
+
+1622063939 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\funciones.h
+
+1621997281 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\main.cpp
+	<iostream>
+	"funciones.h"
+
+1622062871 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+
+1621994473 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\include\fecha.h
+
+1622334335 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622336399 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622336399 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622336400 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\include\usuario.h
+	"Persona.h"
+
+1621994282 source:c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1621994308 c:\users\lenovo\desktop\programacion 1° cuatri 2021\laboratorio 2\tp integrador\sistema de gestión v3\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622558096 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\funciones.cpp
+
+1622583010 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\include\articulo.h
+	"Proveedor.h"
+	"Articulo.h"
+
+1622566649 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+
+1622334557 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\include\persona.h
+
+1622558096 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\funciones.h
+
+1622580403 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\main.cpp
+	<iostream>
+	"funciones.h"
+
+1622586232 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622566734 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+	"Articulo.h"
+
+1622336399 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622336400 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\include\usuario.h
+	"Persona.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622587594 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"modo_ajustes.h"
+
+1622587531 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\modo_ajustes.h
+
+1622587594 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622587617 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622587666 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v4\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"modo_ajustes.h"
+	"Articulo.h"
+	"Usuario.h"
+	"funciones.h"
+
+1622609847 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622600200 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\modo_ajustes.h
+
+1622609847 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622566649 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+
+1622334557 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\include\persona.h
+
+1622601677 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\include\articulo.h
+	"Proveedor.h"
+	"Articulo.h"
+
+1622609847 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622336400 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\include\usuario.h
+	"Persona.h"
+
+1622609892 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\main.cpp
+	<iostream>
+	"ConsoleManager.h"
+	"rlutil.h"
+	"funciones.h"
+
+1622558096 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\funciones.h
+
+1622609847 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"ConsoleManager.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+	"Articulo.h"
+	"Usuario.h"
+	"funciones.h"
+
+1622606211 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622600841 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+	"Articulo.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622610180 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622610155 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v5\consolemanager.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<string.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<wincon.h>
+
+1622609847 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622610180 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622600200 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\modo_ajustes.h
+
+1622659855 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622566649 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+
+1622334557 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\include\persona.h
+
+1622601677 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\include\articulo.h
+	"Proveedor.h"
+	"Articulo.h"
+
+1622659855 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622336400 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\include\usuario.h
+	"Persona.h"
+
+1622659908 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\main.cpp
+	<iostream>
+	"funciones.h"
+
+1622610155 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\consolemanager.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<string>
+	<string.h>
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<wincon.h>
+
+1622558096 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\funciones.h
+
+1622659855 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"modo_ajustes.h"
+	"Articulo.h"
+	"Usuario.h"
+	"funciones.h"
+
+1622606211 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622600841 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+	"Articulo.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v6\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622673198 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622666983 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\modo_ajustes.h
+	"funciones.h"
+
+1622673198 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622566649 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+
+1622334557 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\include\persona.h
+
+1622601677 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\include\articulo.h
+	"Proveedor.h"
+	"Articulo.h"
+
+1622673223 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622336400 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\include\usuario.h
+	"Persona.h"
+
+1622673223 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\funciones.h
+	<iostream>
+
+1622673198 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Usuario.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622606211 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622600841 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+	"Articulo.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622664391 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v7\recuadro.h
+	"rlutil.h"
+
+1622674647 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\funciones.h
+	<iostream>
+
+1622664343 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622606211 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+
+1622601677 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\include\articulo.h
+	"Proveedor.h"
+	"Articulo.h"
+
+1622566649 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+
+1622334557 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\include\persona.h
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622600841 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+	"Articulo.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622336400 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\include\usuario.h
+	"Persona.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622674416 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622666983 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\modo_ajustes.h
+	"funciones.h"
+
+1622674608 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622674477 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622674073 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v8\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Usuario.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622674721 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622666983 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\modo_ajustes.h
+	"funciones.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\funciones.h
+	<iostream>
+
+1622674721 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\include\persona.h
+
+1622676563 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\include\articulo.h
+	"Articulo.h"
+
+1622674721 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622336400 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\include\usuario.h
+	"Persona.h"
+
+1622674647 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1622676622 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622676234 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v9\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622701893 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622691737 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\funciones.h
+	<iostream>
+
+1622701893 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\include\persona.h
+
+1622683624 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\include\articulo.h
+	"Articulo.h"
+
+1622701893 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622336400 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\include\usuario.h
+	"Persona.h"
+
+1622700262 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1622701893 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622683624 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v10\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622701893 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622725247 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\funciones.h
+	<iostream>
+
+1622683624 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\include\usuario.h
+	"Persona.h"
+
+1622725247 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622702031 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622700262 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1622725994 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622683624 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\sistema de gestión_v11\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622701893 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622756935 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\funciones.h
+	<iostream>
+
+1622683624 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\include\usuario.h
+	"Persona.h"
+
+1622759830 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622726070 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622757844 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1622758756 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622683624 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\prototipo sistema de gestión\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622701893 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\funciones.h
+	<iostream>
+
+1622683624 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\include\usuario.h
+	"Persona.h"
+
+1622759830 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622759896 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622757844 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1622683624 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1621994473 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\include\fecha.h
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\proyecto final_v2\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1623032440 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v2\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623099590 source:c:\users\pcaero\desktop\proyecto final_v3\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v3\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623099476 c:\users\pcaero\desktop\proyecto final_v3\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pcaero\desktop\proyecto final_v3\funciones.h
+	<iostream>
+
+1622683624 c:\users\pcaero\desktop\proyecto final_v3\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v3\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v3\include\persona.h
+
+1622336400 c:\users\pcaero\desktop\proyecto final_v3\include\usuario.h
+	"Persona.h"
+
+1622759830 source:c:\users\pcaero\desktop\proyecto final_v3\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+
+1622759896 source:c:\users\pcaero\desktop\proyecto final_v3\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+
+1622757844 source:c:\users\pcaero\desktop\proyecto final_v3\main.cpp
+	<iostream>
+	"funciones.h"
+	"rlutil.h"
+
+1622683624 source:c:\users\pcaero\desktop\proyecto final_v3\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pcaero\desktop\proyecto final_v3\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623032440 c:\users\pcaero\desktop\proyecto final_v3\include\comercio.h
+
+1621994473 source:c:\users\pcaero\desktop\proyecto final_v3\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1621994473 c:\users\pcaero\desktop\proyecto final_v3\include\fecha.h
+
+1622584947 source:c:\users\pcaero\desktop\proyecto final_v3\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pcaero\desktop\proyecto final_v3\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pcaero\desktop\proyecto final_v3\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pcaero\desktop\proyecto final_v3\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pcaero\desktop\proyecto final_v3\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1623104049 source:c:\users\pcaero\desktop\proyecto final_v3\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623100911 source:c:\users\pcaero\desktop\proyecto final_v3\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+
+1623194434 source:c:\users\pcaero\desktop\proyecto final_v4\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623099476 c:\users\pcaero\desktop\proyecto final_v4\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pcaero\desktop\proyecto final_v4\funciones.h
+	<iostream>
+
+1622683624 c:\users\pcaero\desktop\proyecto final_v4\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v4\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v4\include\persona.h
+
+1622336400 c:\users\pcaero\desktop\proyecto final_v4\include\usuario.h
+	"Persona.h"
+
+1623194434 source:c:\users\pcaero\desktop\proyecto final_v4\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623032440 c:\users\pcaero\desktop\proyecto final_v4\include\comercio.h
+
+1623194450 source:c:\users\pcaero\desktop\proyecto final_v4\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623194434 source:c:\users\pcaero\desktop\proyecto final_v4\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623194200 source:c:\users\pcaero\desktop\proyecto final_v4\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"rlutil.h"
+
+1623194227 source:c:\users\pcaero\desktop\proyecto final_v4\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622683624 source:c:\users\pcaero\desktop\proyecto final_v4\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pcaero\desktop\proyecto final_v4\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623193905 source:c:\users\pcaero\desktop\proyecto final_v4\src\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1623193879 c:\users\pcaero\desktop\proyecto final_v4\include\fecha.h
+
+1622584947 source:c:\users\pcaero\desktop\proyecto final_v4\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pcaero\desktop\proyecto final_v4\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pcaero\desktop\proyecto final_v4\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pcaero\desktop\proyecto final_v4\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pcaero\desktop\proyecto final_v4\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1623210156 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623099476 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\funciones.h
+	<iostream>
+
+1622683624 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\include\comercio.h
+
+1623202709 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\include\fecha.h
+
+1623209667 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623208811 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623208097 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623207098 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"rlutil.h"
+
+1623210353 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1622683624 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623211215 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\src\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v5\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v5\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366912 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\funciones.h
+	<iostream>
+
+1622683624 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\include\comercio.h
+
+1623202709 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\include\fecha.h
+
+1623366838 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623366847 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623366585 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622683624 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623211215 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\src\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1622481333 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1622346068 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\include\venta.h
+	"Fecha.h"
+	"Usuario.h"
+	"Articulo.h"
+
+1623366867 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1623367230 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623366889 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v6\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+
+1623359647 c:\users\pablo ezequiel caero\desktop\proyecto final_v6\modo_ventas.h
+
+1623366912 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\funciones.h
+	<iostream>
+
+1623951426 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\include\comercio.h
+
+1623949913 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\include\fecha.h
+
+1623366838 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623366847 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623702387 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623366867 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1623951426 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"pruebaReporte.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623951564 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623951003 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1623950987 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\include\detalleventa.h
+
+1623949913 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\src\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1623950938 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1623951014 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\include\venta.h
+	"Fecha.h"
+
+1623687842 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\pantallaventa.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+	"Venta.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623949913 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v7\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1623866064 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\modo_ventas.h
+
+1623866090 c:\users\pablo ezequiel caero\desktop\proyecto final_v7\pruebareporte.h
+
+1623959277 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\funciones.h
+	<iostream>
+
+1623951426 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\comercio.h
+
+1623952821 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\fecha.h
+
+1623959288 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959277 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959309 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"pruebaReporte.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623866090 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\pruebareporte.h
+
+1623959753 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1623951014 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\venta.h
+	"Fecha.h"
+
+1623950987 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\detalleventa.h
+
+1623959610 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\modo_ventas.h
+
+1623951564 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623951003 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1623950938 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1623959295 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1623959277 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v8\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v8\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623959277 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\funciones.h
+	<iostream>
+
+1623951426 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\comercio.h
+
+1623952821 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\fecha.h
+
+1623959288 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959277 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959295 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1623969247 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"pruebaReporte.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623866090 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\pruebareporte.h
+
+1623951564 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623989815 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1623989815 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\detalleventa.h
+
+1623962736 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1623969247 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1623969255 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\include\venta.h
+	"Fecha.h"
+
+1623994578 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v9\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1623989815 c:\users\pablo ezequiel caero\desktop\proyecto final_v9\modo_ventas.h
+
+1623959277 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\funciones.h
+	<iostream>
+
+1623951426 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\persona.h
+
+1622336400 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\comercio.h
+
+1623952821 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\fecha.h
+
+1623959288 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959277 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959295 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1623969247 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"pruebaReporte.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623951564 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623989815 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1623989815 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\detalleventa.h
+
+1623962736 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1623969247 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1623969255 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\include\venta.h
+	"Fecha.h"
+
+1624330462 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v10\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1623989815 c:\users\pablo ezequiel caero\desktop\proyecto final_v10\modo_ventas.h
+
+1623959277 source:c:\users\pcaero\desktop\proyecto final_v11\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pcaero\desktop\proyecto final_v11\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pcaero\desktop\proyecto final_v11\funciones.h
+	<iostream>
+
+1623951426 c:\users\pcaero\desktop\proyecto final_v11\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v11\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v11\include\persona.h
+
+1622336400 c:\users\pcaero\desktop\proyecto final_v11\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pcaero\desktop\proyecto final_v11\include\comercio.h
+
+1623952821 c:\users\pcaero\desktop\proyecto final_v11\include\fecha.h
+
+1623959288 source:c:\users\pcaero\desktop\proyecto final_v11\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pcaero\desktop\proyecto final_v11\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959277 source:c:\users\pcaero\desktop\proyecto final_v11\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959295 source:c:\users\pcaero\desktop\proyecto final_v11\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1623969247 source:c:\users\pcaero\desktop\proyecto final_v11\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"pruebaReporte.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623951564 source:c:\users\pcaero\desktop\proyecto final_v11\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pcaero\desktop\proyecto final_v11\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1623989815 source:c:\users\pcaero\desktop\proyecto final_v11\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1623989815 c:\users\pcaero\desktop\proyecto final_v11\include\detalleventa.h
+
+1624395894 source:c:\users\pcaero\desktop\proyecto final_v11\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v11\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pcaero\desktop\proyecto final_v11\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pcaero\desktop\proyecto final_v11\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pcaero\desktop\proyecto final_v11\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1623969247 source:c:\users\pcaero\desktop\proyecto final_v11\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1623969255 c:\users\pcaero\desktop\proyecto final_v11\include\venta.h
+	"Fecha.h"
+
+1624395824 source:c:\users\pcaero\desktop\proyecto final_v11\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1623989815 c:\users\pcaero\desktop\proyecto final_v11\modo_ventas.h
+
+1623959277 source:c:\users\pcaero\desktop\proyecto final_v12\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v12\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pcaero\desktop\proyecto final_v12\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pcaero\desktop\proyecto final_v12\funciones.h
+	<iostream>
+
+1623951426 c:\users\pcaero\desktop\proyecto final_v12\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v12\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v12\include\persona.h
+
+1622336400 c:\users\pcaero\desktop\proyecto final_v12\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pcaero\desktop\proyecto final_v12\include\comercio.h
+
+1623952821 c:\users\pcaero\desktop\proyecto final_v12\include\fecha.h
+
+1623959288 source:c:\users\pcaero\desktop\proyecto final_v12\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pcaero\desktop\proyecto final_v12\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959277 source:c:\users\pcaero\desktop\proyecto final_v12\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624484422 source:c:\users\pcaero\desktop\proyecto final_v12\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1623969247 source:c:\users\pcaero\desktop\proyecto final_v12\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"pruebaReporte.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623951564 source:c:\users\pcaero\desktop\proyecto final_v12\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pcaero\desktop\proyecto final_v12\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1624482779 source:c:\users\pcaero\desktop\proyecto final_v12\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1624482813 c:\users\pcaero\desktop\proyecto final_v12\include\detalleventa.h
+	"Fecha.h"
+
+1624395894 source:c:\users\pcaero\desktop\proyecto final_v12\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v12\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pcaero\desktop\proyecto final_v12\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pcaero\desktop\proyecto final_v12\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pcaero\desktop\proyecto final_v12\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1623969247 source:c:\users\pcaero\desktop\proyecto final_v12\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1623969255 c:\users\pcaero\desktop\proyecto final_v12\include\venta.h
+	"Fecha.h"
+
+1624484422 source:c:\users\pcaero\desktop\proyecto final_v12\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1624481286 c:\users\pcaero\desktop\proyecto final_v12\modo_ventas.h
+
+1623959277 source:c:\users\pcaero\desktop\proyecto final_v13\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v13\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pcaero\desktop\proyecto final_v13\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pcaero\desktop\proyecto final_v13\funciones.h
+	<iostream>
+
+1623951426 c:\users\pcaero\desktop\proyecto final_v13\include\articulo.h
+	"Articulo.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v13\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1622676563 c:\users\pcaero\desktop\proyecto final_v13\include\persona.h
+
+1622336400 c:\users\pcaero\desktop\proyecto final_v13\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pcaero\desktop\proyecto final_v13\include\comercio.h
+
+1623952821 c:\users\pcaero\desktop\proyecto final_v13\include\fecha.h
+
+1623959288 source:c:\users\pcaero\desktop\proyecto final_v13\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pcaero\desktop\proyecto final_v13\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624553762 source:c:\users\pcaero\desktop\proyecto final_v13\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624565227 source:c:\users\pcaero\desktop\proyecto final_v13\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1623951564 source:c:\users\pcaero\desktop\proyecto final_v13\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pcaero\desktop\proyecto final_v13\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1624482779 source:c:\users\pcaero\desktop\proyecto final_v13\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1624482813 c:\users\pcaero\desktop\proyecto final_v13\include\detalleventa.h
+	"Fecha.h"
+
+1624395894 source:c:\users\pcaero\desktop\proyecto final_v13\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v13\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pcaero\desktop\proyecto final_v13\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pcaero\desktop\proyecto final_v13\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pcaero\desktop\proyecto final_v13\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1624559206 source:c:\users\pcaero\desktop\proyecto final_v13\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1624559179 c:\users\pcaero\desktop\proyecto final_v13\include\venta.h
+	"Fecha.h"
+
+1624484486 source:c:\users\pcaero\desktop\proyecto final_v13\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1624566456 source:c:\users\pcaero\desktop\proyecto final_v13\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1624559179 c:\users\pcaero\desktop\proyecto final_v13\modo_ventas.h
+
+1623959277 source:c:\users\pcaero\desktop\proyecto final_v14\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v14\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pcaero\desktop\proyecto final_v14\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pcaero\desktop\proyecto final_v14\funciones.h
+	<iostream>
+
+1624571714 c:\users\pcaero\desktop\proyecto final_v14\include\articulo.h
+	"Articulo.h"
+
+1624571714 c:\users\pcaero\desktop\proyecto final_v14\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1624571714 c:\users\pcaero\desktop\proyecto final_v14\include\persona.h
+
+1624571714 c:\users\pcaero\desktop\proyecto final_v14\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pcaero\desktop\proyecto final_v14\include\comercio.h
+
+1623952821 c:\users\pcaero\desktop\proyecto final_v14\include\fecha.h
+
+1623959288 source:c:\users\pcaero\desktop\proyecto final_v14\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pcaero\desktop\proyecto final_v14\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624553762 source:c:\users\pcaero\desktop\proyecto final_v14\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624573971 source:c:\users\pcaero\desktop\proyecto final_v14\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1624565227 source:c:\users\pcaero\desktop\proyecto final_v14\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1624574903 source:c:\users\pcaero\desktop\proyecto final_v14\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1624573971 c:\users\pcaero\desktop\proyecto final_v14\include\venta.h
+	"Fecha.h"
+
+1624482813 c:\users\pcaero\desktop\proyecto final_v14\include\detalleventa.h
+	"Fecha.h"
+
+1624574661 c:\users\pcaero\desktop\proyecto final_v14\modo_ventas.h
+
+1623951564 source:c:\users\pcaero\desktop\proyecto final_v14\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pcaero\desktop\proyecto final_v14\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1624482779 source:c:\users\pcaero\desktop\proyecto final_v14\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1624395894 source:c:\users\pcaero\desktop\proyecto final_v14\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v14\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pcaero\desktop\proyecto final_v14\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pcaero\desktop\proyecto final_v14\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pcaero\desktop\proyecto final_v14\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1624559206 source:c:\users\pcaero\desktop\proyecto final_v14\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1624575174 source:c:\users\pcaero\desktop\proyecto final_v14\modo_consultas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Venta.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_consultas.h"
+	"modo_ajustes.h"
+	"modo_ventas.h"
+
+1624574059 c:\users\pcaero\desktop\proyecto final_v14\modo_consultas.h
+
+1623959277 source:c:\users\pcaero\desktop\proyecto final_v15\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v15\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pcaero\desktop\proyecto final_v15\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pcaero\desktop\proyecto final_v15\funciones.h
+	<iostream>
+
+1624571714 c:\users\pcaero\desktop\proyecto final_v15\include\articulo.h
+	"Articulo.h"
+
+1624571714 c:\users\pcaero\desktop\proyecto final_v15\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1624571714 c:\users\pcaero\desktop\proyecto final_v15\include\persona.h
+
+1624571714 c:\users\pcaero\desktop\proyecto final_v15\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pcaero\desktop\proyecto final_v15\include\comercio.h
+
+1623952821 c:\users\pcaero\desktop\proyecto final_v15\include\fecha.h
+
+1623959288 source:c:\users\pcaero\desktop\proyecto final_v15\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pcaero\desktop\proyecto final_v15\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624553762 source:c:\users\pcaero\desktop\proyecto final_v15\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624573971 source:c:\users\pcaero\desktop\proyecto final_v15\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1624565227 source:c:\users\pcaero\desktop\proyecto final_v15\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1624577278 source:c:\users\pcaero\desktop\proyecto final_v15\modo_consultas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Venta.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_consultas.h"
+	"modo_ajustes.h"
+	"modo_ventas.h"
+
+1624573971 c:\users\pcaero\desktop\proyecto final_v15\include\venta.h
+	"Fecha.h"
+
+1624482813 c:\users\pcaero\desktop\proyecto final_v15\include\detalleventa.h
+	"Fecha.h"
+
+1624576220 c:\users\pcaero\desktop\proyecto final_v15\modo_consultas.h
+
+1624574661 c:\users\pcaero\desktop\proyecto final_v15\modo_ventas.h
+
+1624574903 source:c:\users\pcaero\desktop\proyecto final_v15\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1623951564 source:c:\users\pcaero\desktop\proyecto final_v15\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pcaero\desktop\proyecto final_v15\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1624482779 source:c:\users\pcaero\desktop\proyecto final_v15\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1624395894 source:c:\users\pcaero\desktop\proyecto final_v15\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pcaero\desktop\proyecto final_v15\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pcaero\desktop\proyecto final_v15\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pcaero\desktop\proyecto final_v15\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pcaero\desktop\proyecto final_v15\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1624559206 source:c:\users\pcaero\desktop\proyecto final_v15\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1623959277 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\funciones.h
+	<iostream>
+
+1624571714 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\articulo.h
+	"Articulo.h"
+
+1624571714 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1624571714 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\persona.h
+
+1624571714 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\comercio.h
+
+1623952821 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\fecha.h
+
+1623959288 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1623959302 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624553762 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624573971 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1625024239 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1625023822 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\modo_consultas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Venta.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_consultas.h"
+	"modo_ajustes.h"
+	"modo_ventas.h"
+
+1624573971 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\venta.h
+	"Fecha.h"
+
+1624482813 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\detalleventa.h
+	"Fecha.h"
+
+1625006510 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\modo_consultas.h
+
+1625016206 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\modo_ventas.h
+
+1625023687 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1623951564 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1624482779 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1624395894 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v16\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1624559206 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v16\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1625082115 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\funciones.h
+	<iostream>
+
+1624571714 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\articulo.h
+	"Articulo.h"
+
+1624571714 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1624571714 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\persona.h
+
+1624571714 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\comercio.h
+
+1623952821 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\fecha.h
+
+1623959288 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1625081849 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1625082755 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624573971 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1625082755 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1625086445 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1624573971 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\venta.h
+	"Fecha.h"
+
+1624482813 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\detalleventa.h
+	"Fecha.h"
+
+1625016206 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\modo_ventas.h
+
+1623951564 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1624482779 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1624395894 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1624559206 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
+1625086309 source:c:\users\pablo ezequiel caero\desktop\proyecto final_v17\modo_consultas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Venta.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_consultas.h"
+	"modo_ajustes.h"
+	"modo_ventas.h"
+
+1625024540 c:\users\pablo ezequiel caero\desktop\proyecto final_v17\modo_consultas.h
+
+1625082115 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\sistema de gestión\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\desktop\sistema de gestión\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1623032440 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\comercio.h
+
+1623959288 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1625081849 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1625082755 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1625147774 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1625086309 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\modo_consultas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Venta.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_consultas.h"
+	"modo_ajustes.h"
+	"modo_ventas.h"
+
+1624482813 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\detalleventa.h
+	"Fecha.h"
+
+1625024540 c:\users\pablo ezequiel caero\desktop\sistema de gestión\modo_consultas.h
+
+1625016206 c:\users\pablo ezequiel caero\desktop\sistema de gestión\modo_ventas.h
+
+1623032471 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1624482779 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1622664343 c:\users\pablo ezequiel caero\desktop\sistema de gestión\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1625147023 source:c:\users\pablo ezequiel caero\desktop\sistema de gestión\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1625082115 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\ajustesarticulos.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1623366585 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\modo_ajustes.h
+	"funciones.h"
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+
+1622667488 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\funciones.h
+	<iostream>
+
+1624571714 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\articulo.h
+	"Articulo.h"
+
+1624571714 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\proveedor.h
+	"Persona.h"
+	"Articulo.h"
+	"Proveedor.h"
+
+1624571714 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\persona.h
+
+1624571714 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\usuario.h
+	"Persona.h"
+
+1623032440 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\comercio.h
+
+1623952821 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\fecha.h
+
+1623959288 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\ajustescomercio.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1625081849 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\ajustesproveedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Proveedor.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1625082755 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\ajustesvendedores.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"modo_ajustes.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+
+1624573971 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Comercio.h"
+	"funciones.h"
+	"modo_ajustes.h"
+	"rlutil.h"
+
+1625147774 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\modo_ajustes.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ajustes.h"
+
+1625086309 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\modo_consultas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Venta.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_consultas.h"
+	"modo_ajustes.h"
+	"modo_ventas.h"
+
+1624573971 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\venta.h
+	"Fecha.h"
+
+1624482813 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\detalleventa.h
+	"Fecha.h"
+
+1625024540 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\modo_consultas.h
+
+1625016206 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\modo_ventas.h
+
+1625147023 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\modo_ventas.cpp
+	<iostream>
+	<cstring>
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	"Articulo.h"
+	"Proveedor.h"
+	"Usuario.h"
+	"Comercio.h"
+	"Articulo.h"
+	"Venta.h"
+	"DetalleVenta.h"
+	"Fecha.h"
+	"rlutil.h"
+	"modo_ventas.h"
+	"modo_ajustes.h"
+
+1623951564 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\src\articulo.cpp
+	<iostream>
+	<cstring>
+	"Articulo.h"
+
+1623032471 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\src\comercio.cpp
+	<iostream>
+	<cstring>
+	"Comercio.h"
+
+1624482779 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\src\detalleventa.cpp
+	<iostream>
+	<cstring>
+	"DetalleVenta.h"
+
+1624395894 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\src\fecha.cpp
+	"rlutil.h"
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1622664343 c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1622584947 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\src\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1622676659 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\src\proveedor.cpp
+	<iostream>
+	<cstring>
+	"Proveedor.h"
+
+1622604410 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\src\usuario.cpp
+	<iostream>
+	<cstring>
+	"Usuario.h"
+
+1624559206 source:c:\users\pablo ezequiel caero\downloads\sistema de gestión - version final\src\venta.cpp
+	<iostream>
+	<cstring>
+	"Venta.h"
+	"Fecha.h"
+
