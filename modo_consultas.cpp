@@ -56,14 +56,16 @@ void modoConsultas()
         gotoxy(26,16);
         cout<<" \t4. REPORTE DE RECAUDACION MENSUAL"<<endl;
         gotoxy(26,17);
-        cout<<" \t-------------------------"<<endl;
+        //cout<<" \t5. [Final 12/10/21] REPORTE"<<endl;
         gotoxy(26,18);
-        cout<<" \t0. VOLVER AL MENU PRINCIPAL"<<endl;
-        gotoxy(26,19);
         cout<<" \t-------------------------"<<endl;
+        gotoxy(26,19);
+        cout<<" \t0. VOLVER AL MENU PRINCIPAL"<<endl;
         gotoxy(26,20);
+        cout<<" \t-------------------------"<<endl;
+        gotoxy(26,21);
         cout<<"\t->"<<endl;
-        gotoxy(35,20);
+        gotoxy(35,21);
         cin >> opcion[0];
 
         resetColor();
@@ -92,6 +94,9 @@ void modoConsultas()
             anykey();
             resetColor();
             break;
+        case '5':
+        reporteFinal();
+        break;
         case '0':
             return;
             break;
@@ -365,7 +370,8 @@ void reporteDetalleVentasxFecha()
 
 
 }
-void reporteAnual() {
+void reporteAnual()
+{
 
     DetalleVenta *vec;
     int anio;
@@ -426,8 +432,9 @@ void reporteAnual() {
     delete vec;
 
 }
-void reporteMensual() {
- DetalleVenta *vec;
+void reporteMensual()
+{
+    DetalleVenta *vec;
     int mes;
     int anio;
     float totalMes, total;
@@ -498,6 +505,93 @@ void reporteMensual() {
     recuadro(23, 7, 50, 2);
     gotoxy(25,8);
     cout << "TOTAL RECAUDADO EN EL MES " << mes << "/" << anio << ": $" << totalMes;
+    anykey();
+    resetColor();
+    delete vec;
+}
+
+void reporteFinal()
+{
+    DetalleVenta *vec;
+    Usuario vendedor;
+
+
+
+    gotoxy(49,2);
+    cout << "REPORTE FINAL 12/10/2021";
+
+    saveDefaultColor();
+    setBackgroundColor(BLACK);
+    recuadro(23, 4, 40, 2);
+
+    int legajo;
+    int anio;
+    float total;
+
+    gotoxy(25,5);
+    cout << "LEGAJO: ";
+    cin >> legajo;
+    while(buscarVendedorxID(legajo)==-1)
+    {
+        gotoxy(30,5);
+        cout << "NO EXISTE VENDEDOR";
+        anykey();
+        gotoxy(30,5);
+        cout << "                  ";
+        gotoxy(30,5);
+        cin >> legajo;
+    }
+
+    //EN CASO DE HABER MAS DE UNA CONDICION DE FILTRO
+    gotoxy(30,5);
+    cout << "                ";
+    gotoxy(25,5);
+    cout << "ANIO: ";
+    cin >> anio;
+
+    while(anio <= 1900)
+    {
+        gotoxy(30,5);
+        cout << "FORMATO INCORRECTO";
+        anykey();
+        gotoxy(30,5);
+        cout << "                  ";
+        gotoxy(30,5);
+        cin >> anio;
+    }
+
+
+    int cant = contarDetalleVentas();
+    vec = new DetalleVenta[cant];
+    if(vec == NULL)
+    {
+        return;
+    }
+
+
+    leerDetalleVentas(vec, cant); //METE EN UN VECTOR DINAMICO CADA REGISTRO DEL ARCHIVO
+    ordenarDetalleVentasxIDVenta(vec, cant);
+
+
+    int i;
+    total = 0;
+    for(i=0; i<cant; i++)
+    {
+        if(vec[i].getEstado() == true && vec[i].getIDVendedor()==legajo && vec[i].getFecha().getAnio()==2021)
+        {
+            total+=(vec[i].getPrecioVenta()*vec[i].getCantidad());
+        }
+    }
+
+    saveDefaultColor();
+    setBackgroundColor(BLACK);
+    recuadro(23, 7, 70, 2);
+    gotoxy(25,8);
+
+    vendedor.leerEnDisco(buscarVendedorxID(legajo));
+
+
+    cout << "EL TOTAL RECAUDADO POR " << vendedor.getNombre() << " " << vendedor.getApellido() << " EN EL ANIO " << anio << " FUE DE $" << total;
     anykey();
     resetColor();
     delete vec;

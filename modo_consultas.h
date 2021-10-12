@@ -5,6 +5,7 @@ void consultaTicket();
 void reporteDetalleVentasxFecha();
 void reporteAnual();
 void reporteMensual();
+void reporteFinal();
 
 
 

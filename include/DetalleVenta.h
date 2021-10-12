@@ -14,6 +14,7 @@ public:
     void setEstado(bool);
     void setNombreArticulo(char *);
     void setFecha(Fecha);
+    void setIDVendedor(int);
 
     void mostrar();
 
@@ -24,12 +25,14 @@ public:
     bool getEstado();
     char *getNombreArticulo();
     Fecha getFecha();
+    int getIDVendedor();
 
     bool escribirEnDisco();
     bool escribirEnDisco(int);
     bool leerEnDisco(int);
 
 private:
+    int _IDVendedor;
     int _IDventa;
     char _nombreArticulo[50];
     int _IDarticulo;

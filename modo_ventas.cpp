@@ -362,6 +362,7 @@ void pantallaVenta(int IDUsuario)
                 cout << "TOTAL: $" << total << endl;
 
                 DetalleVenta venta;
+                venta.setIDVendedor(IDUsuario);
                 venta.setCantidad(cantidad);
                 venta.setIDArticulo(art.getIDArticulo()); //SETEO IDARTICULO DE LA CLASE ARTICULO Y LO ASIGNO A IDARTICULO DE LA CLASE DETALLEVENTA
                 venta.setPrecioVenta(art.getPrecioVenta()); //SETEO PRECIOVENTA DE LA CLASE ARTICULO Y LO ASIGNO A PRECIOVENTA DE LA CLASE DETALLEVENTA

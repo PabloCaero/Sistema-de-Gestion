@@ -75,6 +75,13 @@ Fecha DetalleVenta:: getFecha()
     return _fecha;
 }
 
+void DetalleVenta::setIDVendedor(int IDVendedor){
+ _IDVendedor = IDVendedor;
+}
+
+int DetalleVenta::getIDVendedor(){
+  return _IDVendedor;
+}
 
 
 void DetalleVenta::mostrar()
@@ -82,7 +89,7 @@ void DetalleVenta::mostrar()
 
     if(_estado)
     {
-        cout << _IDarticulo << ", "  << _nombreArticulo << ", " << _IDventa << ", " << _cantidad << ", " << _precioVenta << endl;
+        cout << _IDVendedor << ", " << _IDarticulo << ", "  << _nombreArticulo << ", " << _IDventa << ", " << _cantidad << ", " << _precioVenta << endl;
     }
 
 }
